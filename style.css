@@ -1,0 +1,63 @@
+                 #contact iframe
+                 {
+                 width: 100%;
+                 font-family: 'Pacifico', cursive
+                 }
+                 .travel_mainDiv {
+                 border: 1px solid black; 
+                 font-family: 'Pacifico', cursive
+                 } 
+                 .travel_mainDiv img {  
+                 width: 100%;
+                 font-family: 'Pacifico', cursive
+                 } 
+                 .travel_mainDiv h5 , .travel_mainDiv p
+                 {
+                 margin: 20px; 
+                 font-family: 'Pacifico', cursive
+                 }
+                 .movie_head
+                 {
+                  font-size: 20px;
+                  padding: 6px 22px;
+                  border-radius: 10px;
+                  margin-bottom: 15px;
+                  font-family: 'Pacifico', cursive
+                  }
+                  .movie_head i 
+                  {
+                  float: right;
+                  font-family: 'Pacifico', cursive
+                  }
+                  .movie_text span
+                  { 
+                    color: orange;
+                    font-family: 'Pacifico', cursive
+                  }
+                    .book 
+                  {
+                    margin-bottom: 20px;
+                    font-family: 'Pacifico', cursive
+                  }
+                    #contact iframe 
+                  {
+                    width: 100%; 
+                    font-family: 'Pacifico', cursive
+                  }
+                  #canteen
+                  {
+                    width: 100%;
+                    height: 50%;
+                    font-family: 'Pacifico', cursive
+                  }
+                  #p-on-school-canteen
+                  {
+                    font-family: 'Pacifico', cursive
+                  }
+                  #map
+                  {
+                    width: 100%;
+                    height: 100%;
+                  }
+
+
